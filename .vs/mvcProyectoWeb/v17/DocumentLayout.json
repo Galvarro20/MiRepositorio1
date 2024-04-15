@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb\\areas\\cliente\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\cliente\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43060AF-F543-4C2B-AECF-848F56F5DE36}|mvcproyectoWeb.Utilidades\\mvcproyectoWeb.Utilidades.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb.utilidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43060AF-F543-4C2B-AECF-848F56F5DE36}|mvcproyectoWeb.Utilidades\\mvcproyectoWeb.Utilidades.csproj|solutionrelative:mvcproyectoweb.utilidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245D5D56-0828-4BC2-9311-D54BB59D73EE}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245D5D56-0828-4BC2-9311-D54BB59D73EE}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAC63DA-E98A-4F7E-A274-1B0067D62D9B}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\ingenieria en sistema\\programacion web 2\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAC63DA-E98A-4F7E-A274-1B0067D62D9B}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:03:49.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\appsettings.json",
+              "RelativeToolTip": "mvcProyectoWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T01:03:19.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:58:58.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:51:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:48:42.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:40:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-11T00:27:29.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcproyectoWeb.Utilidades\\Class1.cs",
+              "RelativeDocumentMoniker": "mvcproyectoWeb.Utilidades\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcproyectoWeb.Utilidades\\Class1.cs",
+              "RelativeToolTip": "mvcproyectoWeb.Utilidades\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:04:52.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb.Models\\Class1.cs",
+              "RelativeToolTip": "mvcProyectoWeb.Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:04:00.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\INGENIERIA EN SISTEMA\\programacion web 2\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:03:04.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
